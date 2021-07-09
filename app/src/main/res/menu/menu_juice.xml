@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/edit_juice"
+        android:title="Edit Juice" />
+    <item
+        android:id="@+id/delete_juice"
+        android:title="Delete Juice" />
+    <item
+        android:id="@+id/settings"
+        android:title="Settings" />
+</menu>

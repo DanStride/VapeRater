@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="large_font_switch"
+        android:summary="Enlarge the font size"
+        android:title="Large Font" />
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="max_brightness_switch"
+        android:summary="Turn on maximum brightness"
+        android:title="Max Brightness" />
+</PreferenceScreen>
